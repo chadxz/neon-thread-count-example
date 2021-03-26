@@ -1,0 +1,14 @@
+{
+  "name": "thread-count",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "author": "Chad McElligott <chad.mcelligott@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "neon-cli": "^0.8.0"
+  },
+  "scripts": {
+    "install": "neon build"
+  }
+}
